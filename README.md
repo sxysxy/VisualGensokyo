@@ -47,3 +47,16 @@ python3 Convert.py 角色名
 - 对于训练这个神经网络所使用的图片，我不具有版权，这些图片以及使用它们作成的训练数据集不会发布在程序中。但是我会提供下载链接，仅供训练使用。
 
 # 示例：
+![](https://github.com/sxysxy/VisualGensokyo/raw/master/Examples/1.png)
+![](https://github.com/sxysxy/VisualGensokyo/raw/master/Examples/2.png)
+![](https://github.com/sxysxy/VisualGensokyo/raw/master/Examples/3.png)
+![](https://github.com/sxysxy/VisualGensokyo/raw/master/Examples/4.png)
+![](https://github.com/sxysxy/VisualGensokyo/raw/master/Examples/5.png)
+
+还有激动人心的幻视功能:
+
+西红柿炒鸡蛋芙兰
+![](https://github.com/sxysxy/VisualGensokyo/raw/master/Examples/6.png)
+古名地三鲜
+![](https://github.com/sxysxy/VisualGensokyo/raw/master/Examples/7.png)
+![](https://github.com/sxysxy/VisualGensokyo/raw/master/Examples/8.png)
