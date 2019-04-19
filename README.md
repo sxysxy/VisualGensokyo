@@ -25,7 +25,7 @@ python3 VisualGensokyo.py
 ```
 python3 VisualGensokyo.py train
 ```
-数据集稍后上传到百度网盘（7z压缩后883MB)
+数据集:链接：https://pan.baidu.com/s/1y_mUeZmjd7pyHMJDvzT3JA 提取码：cavs 包括原图和作成的数据集
 
 ## 制作训练数据集
 如果您有更多的角色的图片，可以使用Convert.py作成数据集。只需修改Convert.py中的CLASS和CLASS_NAME，加上新角色的名字。然后运行
